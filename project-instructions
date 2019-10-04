@@ -1,0 +1,19 @@
+//these are our project instructions; they are due Friday, October 18, 2019//
+
+Each team (from last week) creates a project pitch website for the project they envisioned last week.
+
+The website should contain a landing page and several sub pages.
+
+Each sub page should correspond to one of the sections in the vision document.
+
+You should also have a sub page for “the team” with a pic and a bio for each of the team members
+
+Have all of these files on a GitHub repo
+
+Publish the files to the web using GitHub Pages
+
+ Use a front end framework (Bootstrap, Ink, Foundation 5, etc) to create the site
+ 
+ Super extra points for teams that use Jekyll (NB – Codecademy has a tutorial on Deploying a Website with Jekyll)
+ 
+Add additional content beyond the original vision document as you see fit.
